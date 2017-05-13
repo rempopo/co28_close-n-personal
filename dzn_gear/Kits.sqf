@@ -41,6 +41,8 @@
 
 // ******** ASSIGNED and UNIFORM ITEMS MACRO ********
 #define NVG_NIGHT_ITEM		if (daytime < 9 || daytime > 18) then { "NVGoggles_OPFOR" } else { "" }
+#define SC_NIGHT_ITEM		if (daytime < 9 || daytime > 18) then { "rhsusf_acc_premier_anpvs27" } else { "rhsusf_acc_premier" }
+
 #define BINOCULAR_ITEM		"Binocular"
 
 #define ASSIGNED_ITEMS		"ItemMap","ItemCompass","ItemWatch","ItemRadio", NVG_NIGHT_ITEM
@@ -125,7 +127,7 @@
 
 	kit_fin_sn = [
 		["<EQUIPEMENT >>  ",fin_uni,fin_vest_sn,fin_back,fin_head,fin_face],
-		["<PRIMARY WEAPON >>  ","rhs_weap_m40a5","rhsusf_10Rnd_762x51_m118_special_Mag",["","","optic_LRPS",""]],
+		["<PRIMARY WEAPON >>  ","rhs_weap_m40a5","rhsusf_10Rnd_762x51_m118_special_Mag",["","acc_pointer_IR",SC_NIGHT_ITEM,""]],
 		["<LAUNCHER WEAPON >>  ","","",["","","",""]],
 		["<HANDGUN WEAPON >>  ","CUP_hgun_Duty","16Rnd_9x21_Mag",["","","",""]],
 		["<ASSIGNED ITEMS >>  ", ASSIGNED_ITEMS_SN],
@@ -134,7 +136,7 @@
 		["<BACKPACK ITEMS >> ",[["ACE_Tripod",1],["ACE_SpottingScope",1],["PRIMARY MAG",5],["HANDGUN MAG",3]]]
 	];
 
-	kit_fin_sl = [
+	kit_fin_pl = [
 		["<EQUIPEMENT >>  ",fin_uni,fin_vest_r,"tf_rt1523g_black",fin_head,fin_face],
 			["<PRIMARY WEAPON >>  ","CUP_arifle_Mk17_STD_EGLM_black","CUP_20Rnd_762x51_B_SCAR",["CUP_muzzle_snds_SCAR_H","acc_pointer_IR",fin_r_sc,""]],
 			["<LAUNCHER WEAPON >>  ","","",["","","",""]],
@@ -168,11 +170,11 @@ kit_vip = [
 #define ALAS_HEAD ["CUP_H_C_Beanie_03","CUP_H_C_Ushanka_04","H_Cap_oli","CUP_H_C_Beanie_01","CUP_H_FR_BandanaWdl","H_Booniehat_oli"]
  
 kit_alas_random = [
-    "kit_alas_r"
+    "kit_alas_r","kit_alas_r","kit_alas_r","kit_alas_r"
     ,"kit_alas_ar"
     ,"kit_alas_gr"
     ,"kit_alas_at"
-    ,"kit_alas_lmg"
+    ,"kit_alas_lmg","kit_alas_lmg"
     ,"kit_alas_mm"
 ];
 kit_alas_r =

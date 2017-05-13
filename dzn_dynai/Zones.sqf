@@ -11,20 +11,20 @@
             2, /* Groups quantity */
             /* Units */
             [
-                ["O_Soldier_F", [], "kit_alas_random"]
-                ,["O_Soldier_F", [], "kit_alas_random"]
-                ,["O_Soldier_F", [], "kit_alas_random"]
+                ["CUP_O_MVD_Soldier", [], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", [], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", [], "kit_alas_random"]
             ]
         ]
         ,[
             1, /* Groups quantity */
             /* Units */
             [
-                ["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
+                ["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
             ]
         ]
     ],
@@ -41,20 +41,20 @@
             2, /* Groups quantity */
             /* Units */
             [
-                ["O_Soldier_F", [], "kit_alas_random"]
-                ,["O_Soldier_F", [], "kit_alas_random"]
-                ,["O_Soldier_F", [], "kit_alas_random"]
+                ["CUP_O_MVD_Soldier", [], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", [], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", [], "kit_alas_random"]
             ]
         ]
         ,[
             1, /* Groups quantity */
             /* Units */
             [
-                ["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
+                ["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
             ]
         ]
     ],
@@ -72,25 +72,25 @@
             4, /* Groups quantity */
             /* Units */
             [
-                ["O_Soldier_F", [], "kit_alas_random"]
-                ,["O_Soldier_F", [], "kit_alas_random"]
-                ,["O_Soldier_F", [], "kit_alas_random"]
-				,["O_Soldier_F", [], "kit_alas_random"]
+                ["CUP_O_MVD_Soldier", [], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", [], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", [], "kit_alas_random"]
+				,["CUP_O_MVD_Soldier", [], "kit_alas_random"]
             ]
         ]
         ,[
             1, /* Groups quantity */
             /* Units */
             [
-                ["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
+                ["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
             ]
         ]
     ],
@@ -107,25 +107,25 @@
             2, /* Groups quantity */
             /* Units */
             [
-                ["O_Soldier_F", [], "kit_alas_random"]
-                ,["O_Soldier_F", [], "kit_alas_random"]
-                ,["O_Soldier_F", [], "kit_alas_random"]
-				,["O_Soldier_F", [], "kit_alas_random"]
+                ["CUP_O_MVD_Soldier", [], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", [], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", [], "kit_alas_random"]
+				,["CUP_O_MVD_Soldier", [], "kit_alas_random"]
             ]
         ]
         ,[
             1, /* Groups quantity */
             /* Units */
             [
-                ["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
-                ,["O_Soldier_F", ["indoors"], "kit_alas_random"]
+                ["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
+                ,["CUP_O_MVD_Soldier", ["indoors"], "kit_alas_random"]
             ]
         ]
     ],

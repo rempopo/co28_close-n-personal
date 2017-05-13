@@ -44,10 +44,10 @@ END
 
 TOPIC("IV. Поддержка:")
 "Land vehicles
-<br />     x2 - Landrover (GMG)
-<br />     x2 - Landrover (unarmed)
+<br />     x3 - Patria AMV XA-360
+<br />     x1 - Landrover (unarmed)
 <br />     x1 - Truck (M2)
-<br />     x1 - Landrover (M2)
+<br />     x1 - Truck (AMMO)
 <br />
 <br />Air Support
 <br />     Salami-1

@@ -42,13 +42,12 @@ t12 addAction ["Go Down", { player setpos tp12;}];
 t13 addAction ["Go Up", { player setpos tp13;}];
 t14 addAction ["Go Down", { player setpos tp14;}];
 
-
-// Snowflakes
-//	[] execVM "goon_snowstorm.sqf";
-
-// Play snowflake	
-//	0 = [] spawn { while{true} do { playmusic "snowfall_music"; sleep 190; }; };
-	
+if ("par_snow" call BIS_fnc_getParamValue == 1) then {
+	// Snowflakes
+		[] execVM "goon_snowstorm.sqf";
+	// Play snowflake	
+		0 = [] spawn { while{true} do { playmusic "snowfall_music"; sleep 190; }; };
+};
 
 
 
