@@ -44,10 +44,10 @@ t14 addAction ["Go Down", { player setpos tp14;}];
 
 
 // Snowflakes
-	[] execVM "goon_snowstorm.sqf";
+//	[] execVM "goon_snowstorm.sqf";
 
 // Play snowflake	
-	0 = [] spawn { while{true} do { playmusic "snowfall_music"; sleep 190; }; };
+//	0 = [] spawn { while{true} do { playmusic "snowfall_music"; sleep 190; }; };
 	
 
 
